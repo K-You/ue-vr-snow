@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.snow_scene_vr-16682836.unrealeditor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/Davidson/OneDrive/Desktop/UE5/Snow_scene_VR 5.0/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Snow_scene_VR-16682836 [UE Editor]"
+				}
+			}
+		}
+	]
+}
